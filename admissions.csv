@@ -1,0 +1,77 @@
+Year,State,College,Branch,Seats,Admissions
+2018,Tamil Nadu,ABC Engineering College,CSE,120,108
+2018,Tamil Nadu,ABC Engineering College,ECE,100,95
+2018,Tamil Nadu,ABC Engineering College,MECH,90,80
+2018,Tamil Nadu,ABC Engineering College,CIVIL,60,50
+2018,Tamil Nadu,ABC Engineering College,IT,60,55
+2018,Karnataka,XYZ Institute of Technology,CSE,120,100
+2018,Karnataka,XYZ Institute of Technology,ECE,100,90
+2018,Karnataka,XYZ Institute of Technology,MECH,90,85
+2018,Maharashtra,Sunrise College of Engineering,CSE,120,115
+2018,Maharashtra,Sunrise College of Engineering,ECE,100,88
+
+2019,Tamil Nadu,ABC Engineering College,CSE,120,112
+2019,Tamil Nadu,ABC Engineering College,ECE,100,96
+2019,Tamil Nadu,ABC Engineering College,MECH,90,82
+2019,Tamil Nadu,ABC Engineering College,CIVIL,60,55
+2019,Tamil Nadu,ABC Engineering College,IT,60,56
+2019,Karnataka,XYZ Institute of Technology,CSE,120,102
+2019,Karnataka,XYZ Institute of Technology,ECE,100,92
+2019,Karnataka,XYZ Institute of Technology,MECH,90,83
+2019,Maharashtra,Sunrise College of Engineering,CSE,120,116
+2019,Maharashtra,Sunrise College of Engineering,ECE,100,90
+
+2020,Tamil Nadu,ABC Engineering College,CSE,120,115
+2020,Tamil Nadu,ABC Engineering College,ECE,100,100
+2020,Tamil Nadu,ABC Engineering College,MECH,90,85
+2020,Tamil Nadu,ABC Engineering College,CIVIL,60,57
+2020,Tamil Nadu,ABC Engineering College,IT,60,58
+2020,Karnataka,XYZ Institute of Technology,CSE,120,110
+2020,Karnataka,XYZ Institute of Technology,ECE,100,94
+2020,Karnataka,XYZ Institute of Technology,MECH,90,86
+2020,Maharashtra,Sunrise College of Engineering,CSE,120,118
+2020,Maharashtra,Sunrise College of Engineering,ECE,100,92
+
+2021,Tamil Nadu,ABC Engineering College,CSE,120,118
+2021,Tamil Nadu,ABC Engineering College,ECE,100,105
+2021,Tamil Nadu,ABC Engineering College,MECH,90,90
+2021,Tamil Nadu,ABC Engineering College,CIVIL,60,58
+2021,Tamil Nadu,ABC Engineering College,IT,60,59
+2021,Karnataka,XYZ Institute of Technology,CSE,120,115
+2021,Karnataka,XYZ Institute of Technology,ECE,100,97
+2021,Karnataka,XYZ Institute of Technology,MECH,90,88
+2021,Maharashtra,Sunrise College of Engineering,CSE,120,120
+2021,Maharashtra,Sunrise College of Engineering,ECE,100,94
+
+2022,Tamil Nadu,ABC Engineering College,CSE,120,122
+2022,Tamil Nadu,ABC Engineering College,ECE,100,110
+2022,Tamil Nadu,ABC Engineering College,MECH,90,93
+2022,Tamil Nadu,ABC Engineering College,CIVIL,60,55
+2022,Tamil Nadu,ABC Engineering College,IT,60,60
+2022,Karnataka,XYZ Institute of Technology,CSE,120,117
+2022,Karnataka,XYZ Institute of Technology,ECE,100,98
+2022,Karnataka,XYZ Institute of Technology,MECH,90,89
+2022,Maharashtra,Sunrise College of Engineering,CSE,120,123
+2022,Maharashtra,Sunrise College of Engineering,ECE,100,96
+
+2023,Tamil Nadu,ABC Engineering College,CSE,120,125
+2023,Tamil Nadu,ABC Engineering College,ECE,100,112
+2023,Tamil Nadu,ABC Engineering College,MECH,90,92
+2023,Tamil Nadu,ABC Engineering College,CIVIL,60,56
+2023,Tamil Nadu,ABC Engineering College,IT,60,61
+2023,Karnataka,XYZ Institute of Technology,CSE,120,119
+2023,Karnataka,XYZ Institute of Technology,ECE,100,100
+2023,Karnataka,XYZ Institute of Technology,MECH,90,87
+2023,Maharashtra,Sunrise College of Engineering,CSE,120,126
+2023,Maharashtra,Sunrise College of Engineering,ECE,100,98
+
+2024,Tamil Nadu,ABC Engineering College,CSE,120,127
+2024,Tamil Nadu,ABC Engineering College,ECE,100,114
+2024,Tamil Nadu,ABC Engineering College,MECH,90,95
+2024,Tamil Nadu,ABC Engineering College,CIVIL,60,57
+2024,Tamil Nadu,ABC Engineering College,IT,60,63
+2024,Karnataka,XYZ Institute of Technology,CSE,120,121
+2024,Karnataka,XYZ Institute of Technology,ECE,100,102
+2024,Karnataka,XYZ Institute of Technology,MECH,90,88
+2024,Maharashtra,Sunrise College of Engineering,CSE,120,128
+2024,Maharashtra,Sunrise College of Engineering,ECE,100,100

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Engineering Admissions Trends Analysis</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Logo" class="logo">
+        <h1>Engineering Admissions Trends Analysis</h1>
+    </header>
+
+    <section class="intro">
+        <h2>Welcome!</h2>
+        <p>Explore the latest trends in Engineering Admissions across states, colleges, and branches from 2018 to 2024.</p>
+    </section>
+
+    <section class="controls">
+        <label for="stateSelect">Select State:</label>
+        <select id="stateSelect">
+            <option value="Tamil Nadu">Tamil Nadu</option>
+            <option value="Karnataka">Karnataka</option>
+            <option value="Maharashtra">Maharashtra</option>
+        </select>
+
+        <label for="branchSelect">Select Branch:</label>
+        <select id="branchSelect">
+            <option value="CSE">CSE</option>
+            <option value="ECE">ECE</option>
+            <option value="MECH">MECH</option>
+            <option value="CIVIL">CIVIL</option>
+            <option value="IT">IT</option>
+        </select>
+
+        <button id="loadData">Show Trend</button>
+    </section>
+
+    <section class="chart-container">
+        <canvas id="admissionsChart"></canvas>
+    </section>
+
+    <footer>
+        <p>Developed by Rasika D | Data Science Mini Project © 2025</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
